@@ -7,3 +7,4 @@ Many events - from local meetups to international conferences - are moving onlin
 
 ## To contribute:
 
+- Make sure your date is in the format `YYYY-MM-DD`. If a conference spans multiple days, please only list the first day.
