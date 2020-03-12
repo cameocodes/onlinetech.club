@@ -24,7 +24,7 @@ Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a
 
 | Conference Date | Conference Name | Announcement | Free to Join? | Last Updated |
 | --- | --- | --- | --- | --- | --- | 
-{% for conference in sorted %}| {{conference.conference_date}} | {{conference.conference_name}} | {{conference.announcement} | {{conference.free_to_join}} | {{conference.last_updated}} |
+{% for conference in sorted %}| {{conference.conference_date}} | {{conference.conference_name}} | {{conference.announcement}) | {{conference.free_to_join}} | {{conference.last_updated}} |
 {% endfor %}
 
 
