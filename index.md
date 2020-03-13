@@ -4,7 +4,7 @@ Many events - from local meetups to international conferences - are moving their
 Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a>
 
 <a name="meetups"></a>
-## Meetups by Date
+## Meetups by date
 
 {% assign sorted = (site.data.meetups | sort: 'meetup_date') %}
 
@@ -14,7 +14,7 @@ Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a
 {% endfor %}
 
 <a name="conferences"></a>
-## Conferences by Date
+## Conferences by date
 
 {% assign sorted = (site.data.conferences | sort: 'conference_date') %}
 
@@ -24,7 +24,7 @@ Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a
 {% endfor %}
 
 
-# Tips for moving your in-person meetup online
+# Tips for moving your in-person event online
 
 Brian Rinaldi has written a great article full of [tips for running virutal meetups and events](https://dev.to/remotesynth/tips-for-running-virtual-meetups-and-events-2bo1), including:
 - how to choose the right streaming software
