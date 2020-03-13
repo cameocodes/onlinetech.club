@@ -1,9 +1,5 @@
-## onlinetech.club
-
-[onlinetech.club](http://onlinetech.club)
-
 # Which meetups and tech events have been moved online due to COVID-19?
-Many events - from local meetups to international conferences - are moving online due to the risk of COVID-19. Please open a new pull request to add your event.
+Many events - from local meetups to international conferences - are moving their gatherings online due to the risk of COVID-19. Please open a new pull request to add your event.
 
 Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a>
 
