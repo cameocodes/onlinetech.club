@@ -26,7 +26,7 @@ Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a
 
 # Tips for moving your in-person event online
 
-Brian Rinaldi has written a great article full of [tips for running virutal meetups and events](https://dev.to/remotesynth/tips-for-running-virtual-meetups-and-events-2bo1), including:
+Brian Rinaldi has written a great article full of [tips for running virtual meetups and events](https://dev.to/remotesynth/tips-for-running-virtual-meetups-and-events-2bo1), including:
 - how to choose the right streaming software
 - considering how scheduling virtual meetups might differ to in-person meetups
 - taking registrations for the event
