@@ -59,5 +59,11 @@
         "city": "San Francisco, US",
         "announcement": "[link](https://twitter.com/SalarRahmanian/status/1237602228510191617)",
         "last_updated": "2020-03-11"
+    },{
+        "meetup_date": "2020-03-24",
+        "meetup_name": "Halihax",
+        "city": "Halifax, CA",
+        "announcement": "[link](https://twitter.com/hali_ax/status/1238078828611866624)",
+        "last_updated": "2020-03-12"
     }
 ]
