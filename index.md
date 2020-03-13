@@ -26,10 +26,18 @@ Jump to: <a href="#meetups">Meetups</a> || <a href="#conferences">Conferences</a
 
 # Tips for moving your in-person meetup online
 
-- https://dev.to/truckerfling/community-management-in-a-crisis-coronavirus-lessons-part-2-6da
-- https://dev.to/remotesynth/tips-for-running-virtual-meetups-and-events-2bo1
+Brian Rinaldi has written a great article full of [tips for running virutal meetups and events](https://dev.to/remotesynth/tips-for-running-virtual-meetups-and-events-2bo1), including:
+- how to choose the right streaming software
+- considering how scheduling virtual meetups might differ to in-person meetups
+- taking registrations for the event
+- sending out any materials before the event
+- testing your virtual meetup setup prior to starting
+- expect the unexpected!
 
-#### Acknowledgements
-
-Big thank you to [@phildini](https://github.com/phildini) and his [stayinghome.club](https://stayinghome.club/) for the idea.
-
+Sarah Thiam [also suggests:](https://dev.to/truckerfling/community-management-in-a-crisis-coronavirus-lessons-part-2-6da)
+- making the decision to go virtual or cancel _with_ your community
+- considering the pros of going virtual (low costs, greater accessibility etc.)
+- choosing the right streaming software (with a great table of comparisons)
+- what to look for in a great moderator 
+- considering recording the event for in-demand viewing
+- inviting an overseas expert

@@ -8,3 +8,8 @@ Many events - from local meetups to international conferences - are moving onlin
 ## To contribute:
 
 - Make sure your date is in the format `YYYY-MM-DD`. If a conference spans multiple days, please only list the first day.
+
+
+## Acknowledgements
+
+Big thank you to [@phildini](https://github.com/phildini) and his [stayinghome.club](https://stayinghome.club/) for the idea.
