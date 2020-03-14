@@ -5,5 +5,29 @@
         "announcement": "[link](https://www.atlassian.com/company/events/summit)",
         "free_to_join": "Yes",
         "last_updated": "N/A"
+    },{
+        "conference_date": "2020-03-23",
+        "conference_name": "Pluralsight LIVE",
+        "announcement": "[link](https://twitter.com/pluralsight/status/1238176451595137024)",
+        "free_to_join": "Yes",
+        "last_updated": "2020-03-13"
+    },{
+        "conference_date": "2020-04-15",
+        "conference_name": "All The Talks",
+        "announcement": "[link](https://www.allthetalks.online/)",
+        "free_to_join": "Yes",
+        "last_updated": "2020-03-13"
+    },{
+        "conference_date": "2020-03-27",
+        "conference_name": "Kernelcon",
+        "announcement": "[link](https://twitter.com/_kernelcon_/status/1237898645187387395)",
+        "free_to_join": "No",
+        "last_updated": "2020-03-12"
+    },{
+        "conference_date": "2020-04-01",
+        "conference_name": "LAST Anywhere",
+        "announcement": "[link](https://www.lastconference.com/anywhere/)",
+        "free_to_join": "No",
+        "last_updated": "2020-03-12"
     }
 ]
