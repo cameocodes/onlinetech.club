@@ -65,5 +65,17 @@
         "city": "Halifax, CA",
         "announcement": "[link](https://twitter.com/hali_ax/status/1238078828611866624)",
         "last_updated": "2020-03-12"
+    },{
+        "meetup_date": "2020-03-25",
+        "meetup_name": "Australian Women in Security Network",
+        "city": "Brisbane, AU",
+        "announcement": "[link](https://twitter.com/Jwillbeep/status/1239447887773184000)",
+        "last_updated": "2020-03-16"
+    },{
+        "meetup_date": "2020-03-17",
+        "meetup_name": "SWFLSec",
+        "city": "Florida, US",
+        "announcement": "[link](https://twitter.com/SWFLSec/status/1238275054821085184)",
+        "last_updated": "2020-03-13"
     }
 ]

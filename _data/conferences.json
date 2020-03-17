@@ -29,5 +29,23 @@
         "announcement": "[link](https://www.lastconference.com/anywhere/)",
         "free_to_join": "No",
         "last_updated": "2020-03-12"
+    },{
+        "conference_date": "2020-03-24",
+        "conference_name": "CORE-IT",
+        "announcement": "[link](https://www.engagez.net/coreit1#lct=entrance)",
+        "free_to_join": "Yes",
+        "last_updated": "N/A"
+    },{
+        "conference_date": "2020-04-04",
+        "conference_name": "VirSecCon2020",
+        "announcement": "[link](https://twitter.com/shewhohacks/status/1238944285602410496)",
+        "free_to_join": "Donation Encouraged",
+        "last_updated": "N/A"
+    },{
+        "conference_date": "2020-04-04",
+        "conference_name": "BSides Atlanta",
+        "announcement": "[link](https://twitter.com/bsidesatl/status/1238238724346933248)",
+        "free_to_join": "Yes",
+        "last_updated": "2020-03-14"
     }
 ]
