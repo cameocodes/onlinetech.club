@@ -2,19 +2,19 @@
     {
         "meetup_date": "2020-03-25",
         "meetup_name": "Ruby on Rails Oceania Melbourne",
-        "city": "Melbourne",
+        "city": "Melbourne, AU",
         "announcement": "[link](https://twitter.com/roromelb/status/1237906049115414528)",
         "last_updated": "2020-03-12"
     },{
         "meetup_date": "2020-03-19",
         "meetup_name": "Los Angeles R Users",
-        "city": "Los Angeles, USA",
+        "city": "Los Angeles, US",
         "announcement": "[link](https://twitter.com/la_Rusers/status/1238257004436692992)",
         "last_updated": "2020-03-13"
     },{
         "meetup_date": "2020-03-19",
         "meetup_name": "Indie Hackers ATL",
-        "city": "Atlanta, USA",
+        "city": "Atlanta, US",
         "announcement": "[link](https://twitter.com/thisiskp_/status/1238171811474481152)",
         "last_updated": "2020-03-13"
     },{
@@ -77,5 +77,11 @@
         "city": "Florida, US",
         "announcement": "[link](https://twitter.com/SWFLSec/status/1238275054821085184)",
         "last_updated": "2020-03-13"
+    },{
+        "meetup_date": "2020-03-18",
+        "meetup_name": "Melbourne DevSecOps User Group",
+        "city": "Melbourne, AU",
+        "announcement": "[link](https://www.meetup.com/Melbourne-DevSecOps-User-Group/events/269472926/)",
+        "last_updated": "N/A"
     }
 ]
